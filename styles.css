@@ -410,4 +410,15 @@ main {
   .scroll-container {
     display: none;
   }
+  .portfolio {
+  text-align: center;
+  margin: 2em;
+  }
+  
+  .circular-photo {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #333; /* Optional: Add border for styling */
+  }
 }
